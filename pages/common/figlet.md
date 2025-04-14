@@ -14,7 +14,7 @@
 
 - Use a [f]ont from the default font directory (the extension can be omitted):
 
-`figlet {{input_text}} -f {{font_filename}}`
+`figlet -f {{font_filename}} {{input_text}}`
 
 - Pipe command output through FIGlet:
 
